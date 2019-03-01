@@ -1,0 +1,176 @@
+
+@media (min-width: 50px) {
+    .curso-title { font-size: 0.9rem; }
+    .small-font { font-size: 0.70rem; }
+    .row-padding { padding: 0 0.5rem; }
+    .donwload { padding: 0 1rem; }
+	.container{ margin-top: 0; }
+}
+@media (min-width: 576px) {
+    .curso-title { font-size: 1.2rem; }
+    .small-font { font-size: 0.70rem; }
+    .row-padding { padding: 0 0.5rem; }
+    .donwload { padding: 0 1rem; }
+}
+@media (min-width: 768px) {
+    .curso-title { font-size: 1.2rem; }
+    .small-font { font-size: 0.70rem; }
+    .row-padding { padding: 0 0.5rem; }
+    .donwload { padding: 0 2rem; }
+}
+@media (min-width: 992px) {
+    .curso-title { font-size: 1.2rem; }
+    .small-font { font-size: 0.70rem; }
+    .row-padding { padding: 0 0.5rem; }
+    .donwload { padding: 0 4rem; }
+}
+@media (min-width: 1200px) {
+    .curso-title { font-size: 1.2rem; }
+    .small-font { font-size: 0.70rem; }
+    .row-padding { padding: 0 2rem; }
+    .donwload { padding: 0 4rem; }
+    .container{ margin-top: 1rem; }
+}
+
+.date-finished {
+	margin: 1.6rem 0;
+	font-weight: bold;
+}
+
+body {
+ font-weight: 600;
+}
+
+.curso-title {
+	color: #7C4CBD;
+}
+
+
+.after-features {
+	padding-top: 0.35rem;
+	padding-left: 0.2rem;
+}
+
+.image-title{
+	background-color: #F4F2FE;
+}
+
+.card-img-top {
+	margin: 2.5rem 0;
+}
+
+.fa-ellipsis-h {
+	font-size: 1.3rem;
+	color: #7C4CBD;
+	cursor: pointer;
+}
+
+.share-linkedin {
+	margin-top: 1.4rem;
+	font-size: 0.70rem; 
+	margin-left: 0.3rem;
+	color: #7C4CBD;
+	padding-bottom: 0.5rem;
+}
+
+.month-active {
+	margin-top: -5px;
+	color: #808080;
+}
+
+.curso-index {
+	color: #9E9E9E;
+}
+
+.row-awards {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.awards {
+	padding: 0.5rem;
+}
+
+.fa-linkedin{
+	color: #FC72B8;
+}
+
+.col-lg-7 {
+	border: 1px solid #E5E5E5;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+
+}
+
+.download {
+	height: 4rem;
+	border: 1px solid #E5E5E5;
+}
+
+.linkedin-link {
+	text-decoration: underline;
+	color: #7C4CBD;
+}
+
+.linkedin-link:hover {
+    color: #FC72B8;
+}
+
+
+.certificate {
+	color: #7C4CBD;
+	text-decoration: underline;
+	font-weight: 400;
+}
+
+.certificate:hover {
+    color: #FC72B8;
+}
+
+.span {
+	width: 100%;
+}
+
+.insignias {
+	margin-top: 0.2rem;
+}
+
+.wrapp-floating {
+	border-bottom: 1px solid #808080;
+	height: 1.3rem;
+	margin-top: 0.2rem;
+
+}
+
+.features {
+	color: #808080;
+}
+
+
+.icon-background {
+    color: #c0ffc0;
+}
+
+.veterano {
+color: #FC72B8;
+}
+
+.circle-icon {
+	color: #FC72B8;
+	font-size: 1rem;
+    background: #F4F2FE;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding-top: 0.75rem;
+}
+
+.fa-circle {
+	font-size: 2rem;
+	width: 50px;
+	height: 50px;
+}
+
