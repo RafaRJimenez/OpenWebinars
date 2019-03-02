@@ -4,7 +4,7 @@
     .small-font { font-size: 0.70rem; }
     .row-padding { padding: 0 0.5rem; }
     .donwload { padding: 0 1rem; }
-	.container{ margin-top: 0; }
+	.container { margin-top: 0; }
 }
 @media (min-width: 576px) {
     .curso-title { font-size: 1.2rem; }
@@ -29,7 +29,7 @@
     .small-font { font-size: 0.70rem; }
     .row-padding { padding: 0 2rem; }
     .donwload { padding: 0 4rem; }
-    .container{ margin-top: 1rem; }
+    .container { margin-top: 1rem; }
 }
 
 .date-finished {
@@ -45,6 +45,9 @@ body {
 	color: #7C4CBD;
 }
 
+.curso-index {
+	font-size: 0.9rem;
+}
 
 .after-features {
 	padding-top: 0.35rem;
@@ -121,6 +124,7 @@ body {
 	color: #7C4CBD;
 	text-decoration: underline;
 	font-weight: 400;
+	margin-bottom: 1rem;
 }
 
 .certificate:hover {
